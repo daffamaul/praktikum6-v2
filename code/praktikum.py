@@ -13,7 +13,6 @@ def tambah():
 	nilai_uas = int(input("Nilai UAS      : "))
 	nilai_akhir = nilai_tugas * .3  + nilai_uts * .35 + nilai_uas * .35
 	data_mahasiswa[nama] = nim, nilai_tugas, nilai_uts, nilai_uas, nilai_akhir
-	print(data_mahasiswa)
 def tampilkan():
 	os.system("cls")
 	if data_mahasiswa.items():
