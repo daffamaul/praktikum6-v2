@@ -1,2 +1,5 @@
-# praktikum6-v2
-Penyimpanan Tugas Bahasa Pemrograman Pertemuan ke-11
+# Flowchart
+![Flowchart](/img/function.drawio.png)
+
+# Penjelasan Program
+latter 
